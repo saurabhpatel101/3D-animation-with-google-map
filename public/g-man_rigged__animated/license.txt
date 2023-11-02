@@ -1,0 +1,11 @@
+Model Information:
+* title:	G-Man (Rigged + Animated)
+* source:	https://sketchfab.com/3d-models/g-man-rigged-animated-ce6a1069c4b345e2b7daa8203cb2b6bc
+* author:	hvp0926 (https://sketchfab.com/hvp0926)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "G-Man (Rigged + Animated)" (https://sketchfab.com/3d-models/g-man-rigged-animated-ce6a1069c4b345e2b7daa8203cb2b6bc) by hvp0926 (https://sketchfab.com/hvp0926) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
